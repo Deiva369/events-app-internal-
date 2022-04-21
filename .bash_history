@@ -26,3 +26,11 @@ $ git remote add origin https://github.com/Deiva369/events-app-internal-.git
  git remote add origin https://github.com/Deiva369/events-app-internal-.git   
 git push -u origin main
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin your-git-external-repo-address
+git remote add origin https://github.com/Deiva369/events-app-external-.git
+git commit -m "Initial commit"
+git remote add origin https://github.com/Deiva369/events-app-external-.git
+ls -a
+ls -a
